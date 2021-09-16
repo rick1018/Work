@@ -1,4 +1,4 @@
-# streamWork
+# Mark
 
 Local -> 載入本地端mp4 將buffer 送去做物件辨識
 偵測到人臉自動錄製，超過五秒沒有人的影像自動存檔 停止
